@@ -14,6 +14,8 @@ TagManager:
   - Powerup
   - Enemy
   - Energyup
+  - Bad
+  - Good
   layers:
   - Default
   - TransparentFX
